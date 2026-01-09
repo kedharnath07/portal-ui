@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MSG Enterprise Insurance Portal",
+  "description": "Next.js style insurance management dashboard with AI task generation and real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
